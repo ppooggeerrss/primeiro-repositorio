@@ -1,10 +1,14 @@
-body 
+body {
     background-color: #CCCCCC;
-{
+}
 
-p}
+h1 {
     text-align:  center;
-{
+}
+
+p {
+    text-align: center;
+}
 
 em p {
     color: red; 

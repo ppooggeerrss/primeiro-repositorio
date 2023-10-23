@@ -10,6 +10,6 @@ p {
     text-align: center;
 }
 
-em p {
+em strong{
     color: red; 
 }

@@ -1,15 +1,45 @@
 body {
-    
+
+}
+
+img {
+    width: 100%;
 }
 
 h1 {
-    text-align:  center;
+    text-align: center;
+}
+ 
+.principal {
+    background: aliceblue;
+    padding: 30px;
 }
 
 p {
     text-align: center;
 }
 
-em strong{
-    color: red; 
+em strong {
+    color: rgba(30, 255, 0, 0.993);
+}
+
+.beneficios{
+    background: #ffffff;
+    padding: 20px;
+}
+
+h2 {
+    text-align: center;
+}
+.imagembeneficios {
+    width: 50%;
+}
+    
+
+u1 {
+    display: inline-block;
+    vertical-align: top;
+    width: 20%;
+    margin-right: 15%;
+
 }
